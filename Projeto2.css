@@ -1,0 +1,19 @@
+:root {
+    --fundo: #6c008d;
+    --cartão-frente: #d0a5f3;
+    --cartao-verso: #000;
+    --destaque: #32037c;
+    --preto: #000;
+    --branco: #ffffff;
+}
+
+body {
+    background-color: var(--fundo);
+}
+
+header {
+    background-color: var(--cartão-frente);
+    color: var(--branco);
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
