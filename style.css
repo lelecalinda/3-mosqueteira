@@ -11,6 +11,9 @@
     color: #fff;
 }
 
+.cabeçario-lista{
+    display: flex;
+}
 .cabeçario-lista li a{
     list-style: none;
     text-decoration: none;
