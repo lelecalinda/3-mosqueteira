@@ -11,6 +11,9 @@
     color: #fff;
 }
 
+.cabeçario-lista li a{
+    list-style: none;
+}
 .parte-azul {
     margin: 4px 6px;
 }
