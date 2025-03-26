@@ -13,6 +13,7 @@
 
 .cabeçario-lista li a{
     list-style: none;
+    text-decoration: none;
 }
 .parte-azul {
     margin: 4px 6px;
